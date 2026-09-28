@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(136, 7, 136);
+    color: white;
+}
+
+a {
+    color: rgb(205, 94, 14);
+}
+
+.paragraph1 {
+    color: rgb(12, 179, 250);
+    text-decoration: underline;
+}
+
+.paragraph2 {
+    font-weight: bold;
+}
+
+.paragraph3 span {
+    color: rgb(39, 227, 39);
+}
+
+.left_img {
+    float: left;
+    width: 250px;
+    margin: 10px;
+}
+
+.right_img {
+    float: right;
+    width: 250px;
+    margin: 10px;
+}
